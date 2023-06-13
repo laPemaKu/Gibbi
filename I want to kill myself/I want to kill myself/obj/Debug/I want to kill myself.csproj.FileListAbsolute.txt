@@ -1,0 +1,18 @@
+C:\Users\lapem\source\repos\I want to kill myself\I want to kill myself\bin\Debug\I want to kill myself.exe.config
+C:\Users\lapem\source\repos\I want to kill myself\I want to kill myself\bin\Debug\I want to kill myself.exe
+C:\Users\lapem\source\repos\I want to kill myself\I want to kill myself\bin\Debug\I want to kill myself.pdb
+C:\Users\lapem\source\repos\I want to kill myself\I want to kill myself\obj\Debug\I want to kill myself.csproj.AssemblyReference.cache
+C:\Users\lapem\source\repos\I want to kill myself\I want to kill myself\obj\Debug\I want to kill myself.csproj.SuggestedBindingRedirects.cache
+C:\Users\lapem\source\repos\I want to kill myself\I want to kill myself\obj\Debug\I_want_to_kill_myself.Properties.Resources.resources
+C:\Users\lapem\source\repos\I want to kill myself\I want to kill myself\obj\Debug\I want to kill myself.csproj.GenerateResource.cache
+C:\Users\lapem\source\repos\I want to kill myself\I want to kill myself\obj\Debug\I want to kill myself.csproj.CoreCompileInputs.cache
+C:\Users\lapem\source\repos\I want to kill myself\I want to kill myself\obj\Debug\I want to kill myself.exe
+C:\Users\lapem\source\repos\I want to kill myself\I want to kill myself\obj\Debug\I want to kill myself.pdb
+C:\Users\lapem\source\repos\I want to kill myself\I want to kill myself\obj\Debug\I_want_to_kill_myself.Gibbi.resources
+C:\Users\lapem\source\repos\I want to kill myself\I want to kill myself\obj\Debug\I_want_to_kill_myself.Account.Register.resources
+C:\Users\lapem\source\repos\I want to kill myself\I want to kill myself\obj\Debug\I_want_to_kill_myself.childForm.resources
+C:\Users\lapem\source\repos\I want to kill myself\I want to kill myself\obj\Debug\I_want_to_kill_myself.Account.Login.resources
+C:\Users\lapem\source\repos\I want to kill myself\I want to kill myself\obj\Debug\I_want_to_kill_myself.Forms.Artists.resources
+C:\Users\lapem\source\repos\I want to kill myself\I want to kill myself\obj\Debug\I_want_to_kill_myself.Forms.Orders.resources
+C:\Users\lapem\source\repos\I want to kill myself\I want to kill myself\obj\Debug\I_want_to_kill_myself.Forms.Profile.resources
+C:\Users\lapem\source\repos\I want to kill myself\I want to kill myself\obj\Debug\I_want_to_kill_myself.Forms.Settings.resources
