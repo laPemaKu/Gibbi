@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Gibbi.Properties {
+namespace I_want_to_kill_myself.Properties {
     
     
     [global::System.Runtime.CompilerServices.CompilerGeneratedAttribute()]

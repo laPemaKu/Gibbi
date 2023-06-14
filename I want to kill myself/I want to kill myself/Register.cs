@@ -31,9 +31,16 @@ namespace I_want_to_kill_myself.Account
             Accounts acc = new Accounts();
             if(acc.CheckForAccount(you)==false)
             {
-                Accounts.accounts.Add(you);
-                openFormInMain(new Artists());
-                this.Close();
+                if (you.Username != null && you.Email!= null && you.Password != null && you.Birthday != null)
+                {
+                    Accounts.accounts.Add(you);
+                    openFormInMain(new Artists());
+                    this.Close();
+                }
+                else
+                {
+                    MessageBox.Show("Input was invalid", "Invlaid input", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                }
             }
             else
             {
