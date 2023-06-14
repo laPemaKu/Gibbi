@@ -13,11 +13,12 @@ namespace I_want_to_kill_myself.Account
 {
     public partial class Register : childForm
     {
+        DateTime date = DateTime.Now;
         public Register()
         {
             InitializeComponent();
+            
         }
-
         private void btnLogin_Click(object sender, EventArgs e)
         {
             openFormInMain(new Login());
@@ -26,12 +27,13 @@ namespace I_want_to_kill_myself.Account
 
         private void btnRegister_Click(object sender, EventArgs e)
         {
-            string username = txtUsername.Text, password = txtPassword.Text;
-            User you = new User(username, password);
+            string username = txtUsername.Text, password = txtPassword.Text, email = txtEmail.Text;
+            DateTime birthday = dateTimePicker1.Value;
+            User you = new User(username, email, password, birthday);
             Accounts acc = new Accounts();
             if(acc.CheckForAccount(you)==false)
             {
-                if (you.Username != null && you.Email!= null && you.Password != null && you.Birthday != null)
+                if (you.Username != "" && you.Email!= "" && you.Password != "")
                 {
                     Accounts.accounts.Add(you);
                     openFormInMain(new Artists());
